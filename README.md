@@ -2,4 +2,4 @@
 
 **_The best way to relax after a long day is to eat ice cream and watch a movie._**
 
-The best ice cream is mint chocolate chip.
+ The best ice cream is **_Mint Chocolate Chip_**.
